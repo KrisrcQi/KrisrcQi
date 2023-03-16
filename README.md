@@ -1,5 +1,3 @@
 ## Financial_information_course_materials
 
-#ETF portfolio
-#Stocks data download by yfinance
-#MA (5,10,15,30,60) plot
+#All code are contributing for the courses using, free to download but no commercial using!
